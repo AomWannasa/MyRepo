@@ -2,7 +2,7 @@
 Aom is beautiful girl.
 
 ## AomWannasa
-$ x^{2} + 2x - 9 $
+$ x^{2} - 9 $
 
 ## AomRianthong
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
